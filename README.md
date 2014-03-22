@@ -1,6 +1,6 @@
 Die Religionsphilosophie Kant's. 
 ================================
-Die Religionsphilosophie Kant's Ton der Kritik der reinen Vernunft bis zur Eeligion innerhalb der Grenzen der blossen Vernunft. 
+Die Religionsphilosophie Kant's Von der Kritik der reinen Vernunft bis zur Religion innerhalb der Grenzen der blossen Vernunft. 
 -----------------------------------------------------------------------------------------------------------------------------
 
 Dr. Albert Schweitzer 
