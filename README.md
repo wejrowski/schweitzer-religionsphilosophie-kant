@@ -5,11 +5,6 @@ Die Religionsphilosophie Kant's Von der Kritik der reinen Vernunft bis zur Relig
 
 Dr. Albert Schweitzer 
 
-in StrMabDTK I. £. 
-
-Freibuzg i. B. 
-Ii9ipzig m Tübingen 
-
 Vorwort. 
 
 Die reiche und gediegene Litteratur über die Religionsphilosophie 
@@ -45,9 +40,6 @@ seiner Stelle verdrängen wolle. Diejenige kantische Religionsphilo-
 sophie, welche die religionsphilosophische Entwicklung des 19. Jahr- 
 hunderts bestimmt hat, ist nicht mehr zu analysieren und zu be- 
 schreiben. Sie hat eine meisterhafte Darstellung durch Kuno Fischer 
-
-
-196559 
 
 
 VI Vorwort. 
