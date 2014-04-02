@@ -5,3 +5,5 @@ markdown: redcarpet
 pygments: true
 
 source: source
+
+permalink: none
