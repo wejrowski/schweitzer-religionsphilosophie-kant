@@ -774,8 +774,6 @@ Behandlung der Antinomien nimmt sich diese erste Antinomie etwas
 fremd aus. Man hat den Eindruck, dass der Dialektik nichts abgehen 
 würde, wenn diese Antinomie uns vorenthalten geblieben wäre. Ihre 
 
-
-
 ' Vgl. hierzu auch S. 883 oben. 
 
 
@@ -2009,8 +2007,6 @@ Grössen sind, wobei die vollendete Sittlichkeit an sich noch gar nicht
 die vollendete Glückseligkeit notwendig zur Folge haben muss, wie in 
 dem System der sich selbst lohnenden Moralität behauptet wird ^ Die 
 
-
-
 ^ Der Unterschied zwischen der Fassung des Verhältnisses von Tagend und 
 Glückseligkeit in der Form, wie es hauptsächlich in der Kritik der praktischen Ver- 
 nunft auftritt, und der Art, wie das „System der sich selbst lohnenden Moralität" 
@@ -2018,15 +2014,9 @@ dieses Verhältnis darstellt, findet einen treffenden Ausdruck in der Kritik der
 tischen Vernunft auf S.188. Es handelt sich dort um die Antinomie der praktischen 
 Vernunft, welche gerade dieses Verhältnis betrifft; die Stelle lautet: „Es ist nicht 
 unmöglich, dass die Sittlichkeit der O-esinnung einen, wo nicht unmittelbaren, doch 
-
-
-
 ' •^> 
 
-
-
 „ X > ^ "i *■ ' 
-
 
 
 
@@ -2212,8 +2202,6 @@ vollständig wertlos gemacht würde, da er auf diese Idee gar nicht
 angelegt ist, sondern ihr seinem Wesen nach widerstrebt. In der 
 zweiten Gedankenreihe haben wir die praktische Realisierung eines 
 Gottesbegriffs in Hinsicht auf die intelligible Welt, welcher, ohne dass 
-
-
 
 ' Dementsprechend erscheinen „Gott und ein künftiges Leben** mehrmals als 
 stehende Verbindung im folgenden {vgl, besonders S. 615 unten). 
@@ -2978,7 +2966,6 @@ theoretischen Vernunft entspricht^; sie giebt es auch durch den Ge-
 brauch des Ausdrucks „Idee^ als Ersatz für ;,Postulat^ zu erkennen. 
 
 
-
 ^ S. 158: nl^ie FoBtiüate sind nicht theoretische Dogmata, sondern Voraus- 
 setzungen in notwendig praktischer Rücksicht, erweitem also zwar das spekulative 
 
@@ -3025,8 +3012,6 @@ sammenstimmen soll."
 Interessant sind zwei Fälle, wo der Ausdruck „Idee" sich in 
 einem Satze mit einem der beiden Gedankendinge, Gott oder zukünf- 
 tiges Leben, trifft, ohne darauf bezogen zu werden. S. 619: „Eine 
-
-
 
 Erkenntnis nicht, geben aber den Ideen der spekulativen Yemunft im allgemeinen, 
 vermittelst ihrer Beziehung aufs Praktische, objektive Bealität.** 
@@ -3171,8 +3156,6 @@ tische Idealismus in der transcendentalen Dialektik eingeführt hat.
 
 Wir stehen hier vor dem merkwürdigen Resultat, dass die reli- 
 gionsphilosophische Ausleitung der Kritik der reinen Vernunft, welche 
-
-
 
 ^ Die letzte in dieser Statistik noch ausstehende Stelle auf Seite 620 wird in 
 anderm Zusammenhang erledigt werden. 
@@ -3349,8 +3332,6 @@ sittliche Genie Kant's. So wird die Untersuchung über die kantische
 Religionsphilosophie zur Darstellung der Entwicklungsgeschichte der- 
 selben. 
 
-
-
 71 
 
 
@@ -3359,7 +3340,6 @@ Zweiter Teil.
 
 Die Kritik der praktischen Vernunft. 
 ------------------------------------
-
 
 Die Hauptfrage bleibt dieselbe, wie für die Untersuchung der reli- 
 gionsphilosophischen Skizze; sie bezieht sich darauf, ob und inwiefern 
@@ -3856,8 +3836,6 @@ ganz unvermittelt, dieser Vorgang ausser acht gelassen, die Freiheit
 als Postulat den beiden anderen Postulaten gleichgesetzt und die 
 Reihenfolge der Realisierung vollständig missachtet wird, als ob der 
 ursprüngliche Plan der Kritik der praktischen Vernunft in seiner reinen 
-
-
 
 ^ Um diese Stelle zu yentehen, muss man sich bewusst sein, dass Kant den 
 Ausdnick „dürfen** in einem Sinne gebraucht, den wir nach modernem Sprach- 
@@ -5094,8 +5072,6 @@ Guten (positiv) bezeichnet werden.^
 Dieser Abschnitt (von der ursprünglichen Anlage des Guten in 
 der menschlichen Natur S. 24) ist etwas kurz von Kant behandelt*: 
 
-
-
 ^ In klassischer Weise findet sich der einschlagende Gedanke formuliert anf 
 S.46: „Das Böse hat nur aus dem moralisch Bösen, nicht aus den blossen Schranken 
 unserer Natur entspringen können/ 
@@ -5538,8 +5514,6 @@ desselben unter ihrer Gregensätzlichkeit als sinnliche Erscheinung und
 als gewirkt durch inteUigible Freiheit! Mit diesem Gegensatz von 
 Naturmechanismus und Freiheit sind wir ganz auf dem Gebiet der 
 Vorfragestellung; die neue Begriffsbestimmung des Ausdruckes Natur, 
-
-
 
 1 Beachte auch hier den Ausdruck ^willkürliche Handlung", dem wir bisher 
 an allen entscheidenden Stellen begegnet sind. 
@@ -6297,8 +6271,6 @@ die Behauptung der Fortdauer des Ichs, der Persönlichkeit, ebenso
 unmöglich zu behaupten als zu verneinen, als die Annahme seiner 
 Präexistenz — sofern beide zusammenfallen^. Insofern wäre die Aus- 
 
-
-
 ' Schon in dem ersten Teil der vorliegenden Untersuchung wurde darauf 
 hingewiesen, dass Kant die Idee der Unsterblichkeit nicht mit seinen Ausführungen 
 über die Seele als Persönlichkeit in Verbindung setzt; man würde erwarten, dass 
@@ -6326,8 +6298,6 @@ sönlichkeit ist das erfahrungsmässige Resultat der Angemessenheit
 unseres sinnlichen, empirischen Willens zum moralischen Gesetz. Mit 
 der Fortdauer unseres intelligiblen Ich, als Unsterblichkeit der Seele, 
 in der Auffassung des kritischen Idealismus, ist die Fortsetzung der 
-
-
 
 gerade aas derErörtemng über den dritten Paralogismus die Idee der Unsterblich- 
 keit hervorwachsen würde. Unter Persönlichkeit versteht er in dem dritten Para- 
@@ -6920,8 +6890,6 @@ gible Welt = Beich Gottes vollzogen ist. So hätten wir also die
 Beihe: höchstes Gut = beste Welt = Beich Gottes = eine intelli- 
 gible Welt. 
 
-
-
 ' Wie weit man hier von dem üntersuchnngsgebiet des kritischen Idealismus 
 entfernt ist, wird erst voll klar, wenn man bedenkt, dass 8. 121 — 125 die letzte und 
 grösste der Freiheit drohende Gefahr, durch deren Beseitigung erst die weiteren 
@@ -7307,8 +7275,6 @@ sten Gutes sind identisch; beide treffen sich in dem Mittelbegriff einer
 intelligiblen sittlichen Welt. Dies ist notwendig der Fall, sobald die 
 Isoliertheit des Subjekts verlassen wird, wobei die Forderung der Frei- 
 heit sich zu der einer intelligiblen Welt erweitert, und das als synthe- 
-
-
 
 ^ Die Bedeutung dieses Satzes liegt darin, dass er die praktisch realisierte 
 Idee der Freiheit zum Postulat stempelt und yergisst, dass die Realisierung der 
@@ -7969,13 +7935,11 @@ problems herangezogen haben.
 
 168 
 
-
 Dritter Teil. 
 =============
 
 Die Religion innerhalb der Grenzen der blossen Vernunft 
 -------------------------------------------------------
-
 
 Das erste „Stück'' dieser Schrift „üeber das radikale Böse in der 
 menschlichen Natar'' wnrde, wie noch am Schluss des zweiten Teils 
@@ -9035,8 +8999,6 @@ sicht auf das Resultat der sittlichen Arbeit der Menschheit gewonnen,
 sondern er garantiert nur die Proportion zwischen Tugend und Glück- 
 seligkeit; da aber letztere erst in der intelligiblen Welt eintritt, so ist 
 
-
-
 ^ In der Religion innerhalb der Grenzen der blossen Vernunft wird auf diese 
 Definition zurückgegriffen (S. 108, 116, 164). Auf S. 103, wo in der Erreichung 
 der moralischen Gottesidee zugleich die moralische Religionsdefinition erreicht ist, 
@@ -9128,8 +9090,6 @@ Die Grundfrage der im zweiten Abschnitt abgethanen Schwierig-
 keiten erhob sich auf der Einsicht der Unangemessenheit der Dauer 
 eines einzelnen oder einer Mehrheit von Menschen zu der durch das 
 Sittengesetz geforderten unendlichen Entwicklung; die Lösung bestand 
-
-
 
 ^ Zu welchen Konsequenzen eine auf diesem Standort vorgenommene der- 
 artige Verbindung führt, zeigt Kantus Auslassung über den exegetischen Kanon 
@@ -9423,8 +9383,6 @@ Thatsache des Sittengesetzes nur in eine künstliche Verbindung gesetzt
 werden kann, welche, streng durchgeführt, die absolute Selbständigkeit 
 und Reinheit desselben gefährdet (Kritik der praktischen Vernunft). 
 
-
-
 der intelligiblen Welt denkt nnd ihn mit dem Insdaseintreten und der Erhaltung 
 der sinnlichen Welt gar nicht in Verbindung setzt (vgl. Kritik der praktischen Ver- 
 nunft S. 121 ff.), während die Notwendigkeit seiner praktischen Realität in der 
@@ -9483,26 +9441,16 @@ ist die sittliche Persönlichkeit des Menschen als moralischen Geschöpfs
 
 198 
 
-
-
 Dritter Teü. 
-
-
 
 ^'^^^ineinschaft ge- 
 
-
-
 » * 
-
-
 
 perF 
 loc 
 
 ü 
-
-
 
 ^ möglicli? 
 ^^^ jjii^fettc^r&. durch 
@@ -9541,8 +9489,6 @@ jfp^ jje, ^^ ' däBS er die gegensätzlichen Richtungen des reli-
 d^-li»^^ . ^Q^X>ein]Leu&^ den Rationalismus und den Pietismus, 
 
 f^^^ eei^^'^^^ cchon zur Vergangenheit, zur höheren Einheit ver- 
-
-
 
 Unmöglichkeit, in dem Gedankengan 
 
@@ -9586,13 +9532,9 @@ Dauer
 
 drän' 
 
-
-
 ■ ^ff^o^'^.jef^^^^^ ^^^ praktischen Vernunft 
 y«^ gif ^' pie Kritik der praktischen Vernunft 
 ''^'*^^Crfflrßeligionsphilosophie Bjlnt's dar; 
-
-
 
 ^\^<^^^^ ind^^ ^^ ®^® beide von seinem hohen Standort aus i 
 
@@ -9617,8 +9559,6 @@ di^ . h irs^i s^i^ tiefstes religionsphilosophisches Werk für einen un-
 10^^ pichen Abfall von der Kritik der praktischen Vernunft zu halten 
 
 ^^ ifx der Behandlung der kantischen Religionsphilosophie bei Seite 
-
-
 
 se 
 
@@ -9901,11 +9841,7 @@ in der Einteilung der Künste der Fall. Kant hat in der Untersuchung
 
 Di^4^iak der Urteilskraft. 207 
 
-
-
 r-c 
-
-
 
 den er dem Aristoteles in Hinsicht der Aufstellung der Kategorientafel 
 vorwirft: er bat einfach die in Frage kommenden Begriffe aus der Er- 
@@ -10036,8 +9972,6 @@ stellung der Einbildungskraft, welche mit einer solchen Mannigfaltig-
 keit der Teilvorstellungen in dem freien Gebrauch derselben verbun- 
 den ist, dass für sie kein Ausdruck, der einen bestimmten Begriff be- 
 zeichnet, gefunden werden kann, der also viel Unnennbares zu einem 
-
-
 
 1 Dies findet z.B. in der Definition des Erhabenen S. 103 statt: „Erhaben ist, 
 was auch nur denken zu können, ein Vermögen des Gemüts beweist, das jeden 
@@ -10288,8 +10222,6 @@ lischen Gesetzen sei". 3. S. 347: „Die subjektive Bedingung, unter
 welcher der Mensch (und nach unseren Begriffen auch jedes vernünftige 
 endliche Wesen) sich unter dem moralischen Gesetze setzen kann" ^ 
 etc. Hier haben wir also überall das Bestreben, den Ausdruck 
-
-
 
 ^ Ein weiteres Beispiel 8.87: „. . . in der Natur des Subjekts als Sinnenwesens 
 (nämlich als Mensch) etc.** — Hier fehlt die moralische Bestimmtheit. 
@@ -10665,8 +10597,6 @@ höhere Abzweckung der Erörterung, die Verbindung, welche die
 kenntnisvermögen herstellt, darzuthun ; sie besteht darin, dass in der 
 ästhetischen Erfassung der Welt der Mensch sich seiner Freiheit in 
 
-
-
 ^ Wie gekünstelt diese Einteilung ist, zeigt sich schon darin, dass er die Ein- 
 teilung in Hinsicht der „Natur sowohl als der Kunst" giebt, für die Untersuchung 
 des Erhabenen dann später dieKunst aber ganz ausscheidet; für die ganze Schwierig- 
@@ -10955,8 +10885,6 @@ setzung der Umgrenzung des Gebiets der Kunst ist, sofern letztere als
 freiheitliches Geschehen zur Beurteilungsmöglichkeit der Zweckmässig- 
 keit von dem Naturmechanismus absieht; so ist die Kunst schon die 
 
-
-
 ^ Die logische Versohiebunji: des wechselseitigen Verhältnisses der Begriffe 
 Kunst und Natur ist nur dadurch möglich, dass die beiden Begriffe für die beiden 
 Möglichkeiten ihres logischen Verhältnisses eine verschiedene Bedeutung haben. 
@@ -11056,8 +10984,6 @@ weitere Begriff der Kunst die allgemeine Einteilung der Kritik der
 Urteilskraft, die Dreiteilung der kantischen Philosophie und die Ver- 
 bindung der ästhetischen und teleologischen Urteilskraft durch den 
 
-
-
 ^ Gerade, diese Korrektur zeigt, wie eng der hier mitgefuhrte Begriff der 
 Kunst ist. 
 
@@ -11107,8 +11033,6 @@ Verbindung ^ Ebenso reflektiert die Einteilung der Künste (S. 190ff.)
 allein auf die schönen Künste (§ 61 : Von der Einteilung der schönen 
 Künste); diese Verengerung beherrscht die Darstellung bis zum Scbluss 
 der ästhetischen Urteilskraft. Für die schönen Künste allein wird 
-
-
 
 ^ S. 219: „Man kann das Genie auch als Vermögen ästhetischer Ideen er- 
 klaren, wodurch zugleich der Grund angezeigt wird, warum in Produkten des Genies 
@@ -11207,8 +11131,6 @@ mässigkeit dem Lust- und Unlustgefühl vorhergehend , weil sie sogar
 da bemerkt wird, wo die Lust selbst nicht mehr Erfahrung ist. Nun 
 ist festzuhalten, dass dieses logische Verhältnis entwickelt wird in einem 
 Zusammenhang, der die Natur der Kunst in ihrem weitesten Umfang 
-
-
 
 ^ Dass S. 16 das Last- und Unlustgefühl schon mit der Urteilskraft verbunden 
 isti hat für unsere jetzige Untersuchung nichts zu bedeuten, da diese Aussage nur 
@@ -11445,8 +11367,6 @@ gische Urteilskraft für ihre Begriffe die apriorische Geltung sich nicht
 mehr auf die Ausführungen S. 16ff. gründen könne. Nehmen wir die 
 Hauptstelle S. 32, wo Ejint die Doppelteilung der Urteilskraft durch- 
 
-
-
 ^ Klar wird obige Darlegung, wenn man sich erinnert, wie Kant, um die All- 
 gemeingültigkeit der ästhetischen Urteile zu begründen, zu verschiedentlichen 
 Malen auf eine Art von „sensns oommunis" sich stützt Hier wiederholt er nur in 
@@ -11542,8 +11462,6 @@ ursprüngliche Zweckbegriff in Hinsicht der Natur als Natur gewonnen
 durch den Umstand, dass 8. 32 ff. die Kunst die Natur eigentlich in 
 sich befasst^; in dem Augenblick, da wieder die Natur als Natur die 
 
-
-
 ' Hierfür bilden die Beispiele S. 38 einen Beleg : Dort werden Natar und 
 „Kunst*' hinsichtlich der Zweckmässigkeit in Parallele gesetzt, und die Parallele 
 nur auf die „Kunstwerke ** der Natur, „die organisierten Körper" ausgedehnt. Es 
@@ -11593,8 +11511,6 @@ nunft, indem sie die Scheidung in die Urteilskraft selbst zurückträgt.
 
 Diese Folgerung lässt sich schon auf rein formalem Wege erreichen, 
 wenn wir die bisherigen Aussagen über die Bedeutung des Lust- und 
-
-
 
 ^ Dass man dieselbe Untersuchung mit demselben Resultat an der Hand des 
 Lust- und Unlustbegriffes führen könnte, leuchtet ein, sobald man bedenkt, dass 
@@ -11696,8 +11612,6 @@ gefuhls zurückgreift, also den Faktor (vgl. S. 166 u. 166) wieder zur
 Geltung bringt, welcher in der Anlage des ursprünglichen Planes die 
 Verbindung herstellen sollte (vgl. S. 16fif.). Die Stelle lautet: „Da es 
 die Vernunft interessiert, dass die Ideen (für die sie im moralischen 
-
-
 
 ' Die in Frage kommenden Stellen sind in der Hauptsache folgende: S. 78, 
 81 ff., 161, 164ff., 169, 197, a28ff., 232, 234. 
@@ -11889,8 +11803,6 @@ Schönen — in einem festen Zusammenhang stehen ^. Diese Thatsache
 wird begreiflich, wenn man auf die Stelle zurückgeht, wo das Erhabene 
 sich aus dem Zusammenhang der Kritik des Geschmacks und des dabei 
 
-
-
 ' Die in Frage kommendeD Stellen sind hauptsächlich folgende: S. 97, 108, 
 107, 108, 110, 111, 117, 121, 122, 124, 126, 126, 127, 129, 132, 134 u. 139. 
 
@@ -11940,8 +11852,6 @@ dadurch auch der Natur (sofern sie auf uns einfliesst) ausser uns über-
 legen zu sein uns bewusst werden können." Dass gerade hierin der 
 apriorische Charakter des im Erhabenen zu Tage tretenden Zweck- 
 mässigkeitsprinzips sich äussert, wird aus den Ausfuhrungen S. 139 u. 
-
-
 
 Die Kritik der Urteüskraft. 349 
 
@@ -12015,8 +11925,6 @@ Verwandtschaft mit der klassischen Stelle Kritik der praktischen Ver-
 nunft S. 105 ist besonders klar Kritik der Urteilskraft S. 111: ^DsiS 
 Gefühl des Erhabenen in der Natur ist Achtung für unsere eigene Be- 
 stimmung, die wir einem Objekte der Natur durch eine gewisse Sub- 
-
-
 
 ' Sobald der auf keinen Zweck bezogene Zweckmässigkeitsbegriff der Kritik 
 des Geschmacks sich für die Untersuchung bemerkbar macht, entstehen Schwierig- 
@@ -12125,8 +12033,6 @@ nur denken zu können, dazu wird ein Vermögen, das selbst übersinn-
 lich ist, im menschlichen Gemüt erfordert. Denn nur durch dieses 
 und dessen Idee eines Nooumenons, welches der Weltanschau- 
 ung als blosser Erscheinung zum Substrat untergelegt wird, wird das 
-
-
 
 ^ Der Begriff, welcher die widerstreitenden Gedanken zusammenhält, ist der 
 Ausdruck „Natur", sofern er einerseits die „Erscheinungswelt**, andererseits die 
@@ -12271,8 +12177,6 @@ enthält eigentlich die folgenden schon in sich, S. 96: Aus dem Wesen
 des Schönen und des Erhabenen folgt, „dass das Schöne für die Dar- 
 stellung eines unbestimmten Verstandesbegriffs, das Erhabene aber 
 eines dergleichen Vemunftbegriffs genommen zu werden scheint^. 
-
-
 
 * Die hauptsächlich hier in Frage kommenden Stellen finden sich auf S. 96» 
 110, 118, 121, 122, 124, 125, 126, 128, 129. 
@@ -12747,8 +12651,6 @@ Succession werden, je nachdem ich die Einheit erfasse oder nichts
 Dass für die regelmässige Succession keine Grenze in dieser Hinsicht 
 besteht, für die unregelmässige eine solche, wenn auch nicht klar mar- 
 
-
-
 ^ Sehr bemerkenswert schien mir ein Ausspruch des gerade wegen seines 
 rhythmischen Empfindens als Organist und Kontrapunktiker sehr geschätzten Pro- 
 fessors am Pariser Konservatorium, Herrn Wu)OR. Auf die Yon mir gestellte 
@@ -12939,8 +12841,6 @@ Schätzung eines Gegenstandes aufrecht erhalten, sobald man die Frage
 in ihrer allgemeinen Form stellt und sie mit der Grundfrage in Ver- 
 bindung bringt: Wie wird die Natur als Erscheinung zur Kunst? Zu- 
 
-
-
 ^ £in Beispiel hierfür bietet die in griechischem Stil gehaltene Pariser 
 Magdalenenkirche; solange man sich vorhält, dass sie dem römischen Kultus dient, 
 empfindet man ein Hemmnis, sie wirklich als Kunstwerk zu erfassen, weil Bauart 
@@ -13081,8 +12981,6 @@ tisch ist dieses Zusammenwirken bloss, wenn es die Erfassung der
 ästhetischen Einheit begünstigt. Wie wichtig die Einsicht in dieses 
 Faktumist, zeigt sich darin, dass in den meisten ästhetischen Bei- 
 spielen das Zusammenwirken zweier oder mehrerer Künste, wenn dies 
-
-
 
 ' NaturgemäsB wird die Erschwerung der YollziehuDg der letzthinigen ästhe- 
 tischen Einheit oder gar die Unmöglichkeit derselben eine Beeinträchtigung des 
@@ -13437,8 +13335,6 @@ dingtheit allein die ästhetische Einheit in der Erscheinungswelt voll-
 ziehen zu können. Auf dieser Höhe ist der Standpunkt der Kritik der 
 praktischen Vernunft erreicht, wo dieselbe in dem Bewusstsein der 
 
-
-
 dingtheit des beurteilenden Subjekts sich kenntlich macht, manches, was bisher 
 durch die Komik als Kunst empfunden wurde, jetzt zur unangenehm wirkenden 
 Natur wird, weil die sittliche Persönlichkeit in dem Gegebenen die Einheit nicht 
@@ -13623,8 +13519,6 @@ stände zur Vollziehung der Einheit. So wird das Einteilungsprinzip der
 Künste darauf ausgehen, die Künste nach der in jeder Kunst höchst- 
 möglichen Vollendung des Einheitsprinzips zu ordnen und darin ihre 
 Stufenfolge zu erblicken. Nun entsprechen sich aber die Vollendung 
-
-
 
 ^ Was oben bemerkt wurde hinsiohtlich der UDmöglichkeit sich eine Kaust 
 zu denken, welche ohne Beziehung auf eine andere Kunst existiert, das gilt auch vom 
@@ -14636,8 +14530,6 @@ aneinandergereiht sind. „Das Dasein des Urwesens als einer Gottheit
 oder der Seele als eines unsterblichen Geistes lassen schlechterdings 
 keinen theoretischen Beweis zu.^ So ist die Unsterblichkeitsidee als 
 
-
-
 ^ Vgl. dafür die DefiDition der Ethikotheologie S. 330. 
 ' Dies ist die einzige Stelle, wo Kant den Ausdruck „künftiges Leben* 
 gebraucht; sonst dominiert im folgenden der Ausdruck „Seelenunsterblichkeit*. 
@@ -14978,6 +14870,7 @@ tigung. In der Religion innerhalb der Grenzen der blossen Vernunft
 ist der Kampf entschieden zu Gunsten des Ausdrucks übersinnlich. 
 
 
+
 312 
 
 Fünfter Teil. 
@@ -14985,7 +14878,6 @@ Fünfter Teil.
 
 Allgemeiner Schlussrückblick. 
 -----------------------------
-
 
 Wir haben an den vier^ für die kantische Rehgionsphilosophie 
 hauptsächlich in Betracht kommenden Schriften die Untersuchung nach 
@@ -15293,8 +15185,6 @@ der Urteilskraft behandelten Frage: wie wird Natur zur Kunst? —
 entgegen; hier wurde zugleich die letzthinige Unmöghchkeit der Lös- 
 barkeit der Frage eingesehen. 
 
-
-
 * Erst nachträglich bin ich durch die Lektüre von Fr. Jodl^s „G-eschiohte 
 der Ethik in der neueren Philosophie** auf die merkwürdigen Berührungspunkte 
 zwischen den Resultaten der dort erfolgten Behandlang des kantischen Freiheits- 
@@ -15447,8 +15337,6 @@ kennenden Subjekt allein genommen werden kann. So vollendet sich
 
 Schweitzer, Die RellgionsphOosophie Kant*B. 21 
 
-
-
 322 Fünfter Teil. 
 
 die Entsittlichung der Beligionsphilosophie des kritischen Idealismus 
@@ -15543,10 +15431,7 @@ Diese sich scharf abhebenden Gedankengänge könnte man als die
 ethische Religionsphilosophie innerhalb der kantischen Religionsphilo- 
 
 
-
 21* 
-
-
 
 324 Fünfter Teü. 
 
@@ -15588,16 +15473,12 @@ die Abhängigkeit von Eant mehr oder weniger bewusst wurde.
 In E[ant's Darstellung selbst gehen diese beiden Gedankenreihen 
 nebeneinander her, ohne dass Eant das Bewusstsein der Widersprüche 
 
-
-
 ' Es scheint das Verhängnis dieser ethischen Gedankenreihe zu sein, dass sie 
 sich immer in das Gewand der kirchlichen Sprache einhüllen muss. Es war dies 
 der Fall in der Religion innerhalb der Grenzen der blossen Vernunft; dasselbe trifft 
 zu für Albrbcht Rirscmi. Das Operieren mit den Begriffen Rechtfertigung und 
 Versöhnung lässt den Nerv der Gedankenentwicklung nicht immer klar hervor* 
 treten. 
-
-
 
 X 
 
@@ -15636,4 +15517,3 @@ heutige Religionsphilosophie ausüben können, wenn die Einsicht all-
 gemein Platz greift, dass die kantische Religionsphilosophie nicht nach 
 dem Schema der Kritik der praktischen Vernunft allein dargestellt und 
 gewürdigt werden darf. 
-
