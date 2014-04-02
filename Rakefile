@@ -8,7 +8,7 @@ task :split do
 
   set_headers
 
-  File.open('source/_posts/all.markdown').each do |line|
+  File.open('source/all.txt').each do |line|
     line_num += 1
 
     File.open(curr_filename, 'a').puts line
@@ -41,14 +41,18 @@ end
 
 def curr_filename
   i = "%04d" % @current_page
-  "source/_posts/german-#{i}.markdown"
+  "source/_posts/2014-4-1-german-#{i}.markdown"
 end
 
 def set_headers
+  puts "--  #{@current_page}"
   f = File.open(curr_filename, 'a')
   f.puts '---'
   f.puts 'layout: german'
   f.puts "title: Albert Schweitzer - Die Religionspbilosophie Kant's - #{@current_page}"
+  f.puts 'date: 2014-04-01 20:00:00'
   f.puts 'category: german'
   f.puts '---'
+  f.puts '<img src="/assets/images/Albert_Schweitzer_1952.jpg" class="alignright" />'
+  f.close
 end
