@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-hi
+<h1>Die Religionsphilosophie Kant's.</h1>
+<h3>Die Religionsphilosophie Kant's Von der Kritik der reinen Vernunft bis zur Religion innerhalb der Grenzen der blossen Vernunft.</h3>
 <div id="posts">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
   <div class="post">
     <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
